@@ -1,3 +1,3 @@
 # Mitchell-International-Coding-Challenge
 
-All steps of preprocessing the dataset, building the classification model, and evaluating its performance are included in the zipped file.
+All steps of preprocessing the dataset, building the classification model, and evaluating its performance are included in the zipped juypter notebook file.
